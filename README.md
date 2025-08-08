@@ -1,6 +1,6 @@
 # RPPI
 
-Reservoir Predictive Path Integral (MPPI) control implementation in Julia.
+Reservoir Predictive Path Integral (RPPI) control implementation in Julia.
 
 ## Overview
 
