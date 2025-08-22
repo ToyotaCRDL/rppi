@@ -1,0 +1,4 @@
+key: 1
+SIM_STEP: 1000
+plot: true
+PRETRAIN: false
